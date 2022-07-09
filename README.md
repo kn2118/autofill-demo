@@ -9,4 +9,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Installs the necessary packages for autocomplete component
 
-Connected to personal google cloud console account (Geocode, Maps JavaScript API) -> API script injected within html (key is hidden)
+Connected to personal google cloud console account (Geocode, Maps JavaScript API, Places API)
